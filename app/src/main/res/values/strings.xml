@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botao Ola v3</string>
+    <string name="ola">Olá</string>
+    <string name="conta">Conta</string>
+    <string name="valor_inicial_contagem">0</string>
+    <string name="mensagem_ola">Olá pessoal!</string>
+</resources>
